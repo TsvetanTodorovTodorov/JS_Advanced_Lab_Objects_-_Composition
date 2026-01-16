@@ -25,5 +25,5 @@ The purpose of this repository is to practice working with:
 
 Each file represents a separate task from the lab exercises.
 
-Run a file using: node fileName.js
-Example: node 01CityRecord.js
+- Run a file using: node fileName.js
+- Example: node 01CityRecord.js
